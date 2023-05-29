@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="name">Oskar Vidjeskog</string>
+    <string name="title">Application Developer</string>
+    <string name="phone">+358 400928079</string>
+    <string name="email">oskar@vidjeskog.fi</string>
+    <string name="social_name">\@vidjeskogo</string>
+</resources>
